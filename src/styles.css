@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+:root {
+  background: #1e1e1e;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+  height: 100vh;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  min-width: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+ul li {
+  list-style-type: none;
+}
